@@ -12,14 +12,14 @@ nav {
 }
 
 .body-wrapper {
-	margin: 0 250px;
+	margin: 0 250px; 
 }
 
 .logo {
 	float: left;
 	display: inline-block;
     font-size: 40px;
-    padding-top: 40px;
+    padding-top: 41px;
 }
 
 .logo span {
