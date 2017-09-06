@@ -80,6 +80,7 @@ section {
 .section-right {
 	display: inline-block;
 	width: 50%;	
+
 }
 
 .section-right div {
@@ -92,6 +93,7 @@ section {
 .section-right h1 {
 	font-size: 39px;
 	padding: 0 25px;
+
 }
 
 section button {
@@ -186,9 +188,11 @@ footer {
 		text-align: center;
 	}
 
-	.
 }
 
+@media (max-width: 1066px){
+
+}
 
 
 
